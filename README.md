@@ -1,5 +1,5 @@
 @TheSixthCourier
--  I’m interested in ... (Things I'd get in trouble for talking about.)
--  I’m currently learning ... (Python, C++)
--  I’m looking to collaborate on ... (Schoolwork. Thats it.)
--  How to reach me (Don't even try it.)
+-  I’m interested in: Video games, simple game programming, etc.
+-  I’m currently learning: Python, C++, HTML
+-  I’m looking to collaborate on: College assignments and projects.
+-  How to reach me: Formal email, miguelnunezcorral@gmail.com
